@@ -1,0 +1,8 @@
+[package]
+name = "slice_get_many_poc"
+version = "0.0.0"
+edition = "2021"
+
+publish = false
+
+[dependencies]
